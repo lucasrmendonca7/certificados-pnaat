@@ -1,6 +1,6 @@
 # Capacitação PNAAT — IoT, Sistemas Embarcados e Edge AI
 
-Este repositório reúne um **resumo dos conteúdos** e **certificados** da minha capacitação no **PNAAT**, organizada em **4 trilhas de conhecimento**.
+Este repositório reúne um **resumo dos conteúdos** e **certificados** da minha capacitação no **PNAAT (Programa Nacional de Aprendizado Acelerado em Tecnologia)**, organizada em **4 trilhas de conhecimento**.
 
 ## Trilhas e conteúdos
 
