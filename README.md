@@ -2,6 +2,9 @@
 
 Este repositório reúne um **resumo dos conteúdos** e **certificados** da minha capacitação no **PNAAT (Programa Nacional de Aprendizado Acelerado em Tecnologia)**, organizada em **4 trilhas de conhecimento**.
 
+> Projeto apoiado pelo **Ministério da Ciência, Tecnologia e Inovações (MCTI)**, com recursos da **Lei nº 8.248, de 23 de outubro de 1991**.  
+> Iniciativa do **MCTI** e **Softex** no âmbito do **Programa MCTI Futuro**.
+
 ## Trilhas e conteúdos
 
 ### 1) Trilha de Fundamentos em IoT e Edge AI
